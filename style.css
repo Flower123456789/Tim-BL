@@ -85,3 +85,13 @@ color: aqua;
 .links:hover{
     background-color: chartreuse;
 }
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color: cyan;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
